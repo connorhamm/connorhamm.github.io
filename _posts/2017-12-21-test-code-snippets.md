@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "code snippet test"
-date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [Jalpc,Jekyll]
+title:  "Kali Testing"
+date:   2018-06-07
+desc: "Learning Kali"
+keywords: "Linux, Kali, Security"
+categories: [Linux]
+tags: [Linux, Kali, Security]
 icon: icon-html
 ---
-test
+
+Attempting Kali Tutorial.
+http://www.kalitutorials.net/2014/04/hack-wpawpa2-wps-reaver-kali-linux.html
