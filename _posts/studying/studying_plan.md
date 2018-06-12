@@ -1,4 +1,4 @@
 Daily Plan:
-- spend time on anki
-- attempt practice problems from textbooks or online material
-- quiz
+1. anki
+2. attempt practice problems from textbooks or online material
+3. quiz
