@@ -25,6 +25,6 @@ ex: associative imagery or acronyms such as ROY-G-BIV
 
 8. Don't treat flash cards like a silver bullet
 - there are many other methods of studying
-ex: quiz, practice problems, mind maps, ven diagrams
+ex: quiz, practice problems, mind maps, Venn diagrams
 
 9. Spaced Repetition!!!!!
