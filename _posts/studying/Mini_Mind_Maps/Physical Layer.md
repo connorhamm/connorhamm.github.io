@@ -22,6 +22,12 @@ Mini-Mind Maps
   - Cables: Serial Analog, Serial Digital, Parallel Analog, Digital Analog
     - Serial Analog: Frequency/Amplitude Modulation Radio (SSB)
     - Serial Digital: USB, SATA, DBV, MPEG
+      - USB: 3.X, 2.X, 1.X,
+        - 3.X: SuperSpeed applications
+      - Type C: ???
+      - Type A: ???
+      - Micro: ??? similar to mini, smaller
+      - Mini: ??? peripheral devices
     - Parallel Analog: VGA
     - Parallel Digital: DSL modem, dialup modem, HDMI, DVI, PCI-E
 
