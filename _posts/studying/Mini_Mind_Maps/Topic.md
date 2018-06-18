@@ -1,9 +1,0 @@
-
-notes not covered:
-lidar vs radar
-electrostatic field ???
-electrostatic field equation ???
-Maxwells ???
-Guass' Law ???
-Lapplace and Poisson Equations ???
-Faraday's Law ???
