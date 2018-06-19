@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Random Thoughts Part 1"
+title:  "Random Thoughts (Part 1)"
 date:   2018-06-18
 desc: "Some random thoughts"
 keywords: "Random Thoughts"
@@ -9,7 +9,7 @@ tags: [Thoughts, Random]
 icon: icon-html
 ---
 
-![Blog](https://github.com/connorhamm/connorhamm.github.io/raw/master/pictures/storm.jpg)
+![Storm](https://github.com/connorhamm/connorhamm.github.io/raw/master/pictures/storm.jpg)
 
 "In the midst of chaos, there is also opportunity" [Sun Tzu, A Arte da Guerra]. Chaos is the only reliable constant in this life and often is what leads to a tipping point.  Living through it there is pain, burden, an internal struggle that must be fought.  There is a fine line between being consumed by it and residing safely in it's shadow.  A guilty mistake would be avoidance, letting the lingering feelings exponentially weighing you down.  In search of a middle ground, a calm focus can be obtained.  This calm focus filtering through the noise and traffic, providing insight and clarity to reality.  By concentrating on mind and body, progress will made.
 
