@@ -10,7 +10,31 @@ icon: icon-html
 ---
 
 
-test
+Fitness/Health Goals
+
+
+Professional Goals
+
+
+Habit Goals
+
+
+Creative Goals
+
+
+Skill Goals
+
+
+Fun and/or "Insane" Goals
+
+
+Events to Attend
+
+
+Travel Goals
+
+
+Life Goals
 
 
 ---
