@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "My Impossible List"
-date:   
+date:   2018-06-20
 desc: "My Impossible List"
 keywords: "Impossible, List"
 categories: [My Impossible List]
