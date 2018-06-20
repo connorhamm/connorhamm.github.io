@@ -4,8 +4,8 @@ title:  "The Impossible List"
 date:   2018-06-20
 desc: "The Impossible List"
 keywords: "Impossible, List"
-categories: [The Impossible List]
-tags: [The Impossible List]
+categories: [the impossible list]
+tags: [the impossible list]
 icon: icon-html
 ---
 
