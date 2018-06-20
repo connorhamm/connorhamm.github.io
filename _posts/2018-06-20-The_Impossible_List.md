@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "My Impossible List"
+title:  "The Impossible List"
 date:   2018-06-20
-desc: "My Impossible List"
+desc: "The Impossible List"
 keywords: "Impossible, List"
-categories: [My Impossible List, impossible]
-tags: [My Impossible List]
+categories: [The Impossible List]
+tags: [The Impossible List]
 icon: icon-html
 ---
 
