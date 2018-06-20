@@ -8,5 +8,7 @@ It is difficult to find peace and quite, but the raining soundtrack seems to be 
 - notebook & pen
 -
 
+Reading at work:
+It is very difficult to write at work.  
 
 Clothing:
