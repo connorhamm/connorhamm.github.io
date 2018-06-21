@@ -7,7 +7,18 @@ It is difficult to find peace and quite, but the raining soundtrack seems to be 
 - raining soundtrack
 - notebook & pen
 - don't rush
-- concentrated/high value reading material (books recommended from Thomas Frank)
+
+
+Time spent on breaks:
+- python app
+- misc. Reading (ready player one)
+
+Time not on break:
+- reading on laptop (deep work)
+
+Time at home:
+- reading fiction
+
 
 Reading at or on the way to work:
 It is very difficult to read undistracted at work.  There is no notebook, but I can take notes on computer If I decide to read on here.  Reading on here isn't as enjoyable however.  I really want to be able to read critically and be able to call back on knowledge obtained from them.  Hence, taking notes is a necessity.  So, how do I accomplish this.  If I read at work, I must take notes, which means that my break time will not be a reading time for high value content.  It will be a time for more dispersed content.  Such as reading Lakshmi's blog, news articles, or sci-fi books for fun.  Creative and fun content.  On the drive I will also engage in dispersed reading.  Right now that includes sherlock holmes stories or whatever is fun and creative.  

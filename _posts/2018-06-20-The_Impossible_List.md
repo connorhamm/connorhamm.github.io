@@ -28,6 +28,7 @@ Habit Goals
 
 Creative Goals
 - write 1 blog post a week
+- Check out my readings goals @ https://www.goodreads.com/user/show/83296553-connor
 
 Skill Goals
 - HackerRank
