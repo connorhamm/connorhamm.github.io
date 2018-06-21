@@ -33,16 +33,19 @@ Creative Goals
 Skill Goals
 - HackerRank
   - 1 competition
-  - Python Score: 150
-  - AI Score: 100
-  - Problem Solving: 100
+  - Python Score: 3 star
+  - Problem Solving: 1 star
+  - AI Score: 10/150
+  - Linux Score: 10/65
+  - "Learn to Code in 30 days" Tutorial
+  - "Interview Prep" Tutorial
+  - "10 Days of Statistics" Tutorial
 
 Fun and/or "Insane" Goals
 - Do a flip
 - Chess Rank 1500+
 - Skydive
 - Own an autonomous car
-
 
 Events to Attend
 - AI meetups
