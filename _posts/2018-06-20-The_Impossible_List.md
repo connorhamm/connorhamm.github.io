@@ -33,8 +33,9 @@ Creative Goals
 Skill Goals
 - HackerRank
   - 1 competition
-  - Python Score: 3 star
-  - Problem Solving: 1 star
+  - Python Score: 3rd star
+  - ~~Problem Solving: 1 star~~ Completed 6/21/18
+    - 2nd star
   - AI Score: 10/150
   - Linux Score: 10/65
   - "Learn to Code in 30 days" Tutorial
