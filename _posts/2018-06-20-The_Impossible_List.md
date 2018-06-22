@@ -18,7 +18,7 @@ Fitness/Health Goals
 
 Professional Goals
 - Attend more interviews
-- pay off student loans
+- Pay off student loans
 
 Habit Goals
 - Do a morning workout 100 days in a row
@@ -31,6 +31,7 @@ Creative Goals
 - Check out my readings goals @ https://www.goodreads.com/user/show/83296553-connor
 
 Skill Goals
+- Coursera "Deep Learning" by Andrew Ng
 - HackerRank
   - 1 competition
   - Python Score: 3rd star
@@ -42,6 +43,7 @@ Skill Goals
   - "Interview Prep" Tutorial
   - "10 Days of Statistics" Tutorial
 
+
 Fun and/or "Insane" Goals
 - Do a flip
 - Chess Rank 1500+
@@ -50,6 +52,8 @@ Fun and/or "Insane" Goals
 
 Events to Attend
 - AI meetups
+- Hackaday Event
+- DefCon Event
 
 Travel Goals
 - Italy
@@ -59,8 +63,7 @@ Travel Goals
 
 
 Life Goals
-- Masters Degree?
-- “Retire” Mr. Money Mustache-style by age 40 (save $900k in 2014 dollars, live off of less than 4% – $36,000/yr – from interest)
+- Masters Degree in CS?
 - Be self sufficient and location independent
 
 ---
