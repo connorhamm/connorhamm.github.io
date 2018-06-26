@@ -4,31 +4,19 @@ To take a more physical than philosophical approach to combating mentality, I ha
 # Health
 I was never really taught about nutrition through family or through my education.  I never understood the interactions between calories, carbs, fats, proteins, minerals, and vitamins.  Reading the nutritional label on the back of a product was nonsense to me.  My relationship with food is slowly changing and become a more conscious decision as I know the power behind it.  I began flipping everything I knew on its head, following a diet that was the exact opposite of what I was used to with a corresponding food pyramid flipped on its head rather than the traditional one.
 <div style="text-align:center"><img src ="https://github.com/connorhamm/connorhamm.github.io/raw/master/pictures/food_pyramid.jpg" /></div>
-This is when I noticed my prior diet was filled with addiction and weakness.  Flipping off and on between this diet, unable to control myself, I found that food really was an addiction that needed fixing.  Food is something we should all enjoy, regardless if it is good or bad for you, however relying on it to feel good forms a hard to break addiction.  The most common detrimental addiction is to sugar.  There is nothing good about sugar at all.  Sugar causes insulin resistance, blood sugar spikes, rapid weight gain, inflammation, and the list goes on and on.  After removing sugar from a diet your body adapts, and sugary substances become not as desirable and less is required to satisfy.  As Dr. Eric Berg explains "it is not normal to have this incredible desire to have sweets... but while eating sugar, I wanted it more and more and more...".  Fortunately there are now many ways to ween off a sugar addiction, which include substituting with healthy artificial sweeteners, low-carb flours, and learning to be a better cook in the process.  
+This is when I noticed my prior diet was filled with addiction and weakness.  Flipping off and on between this diet, unable to control myself, I found that food really was an addiction that needed fixing.  Food is something we should all enjoy, regardless if it is good or bad for you, however relying on it to feel good forms a hard to break addiction.  The most common detrimental addiction is to sugar.  There is nothing good about sugar at all.  Sugar causes insulin resistance, blood sugar spikes, rapid weight gain, inflammation, and the list goes on and on.  After removing sugar from a diet your body adapts, and sugary substances become not as desirable and less is required to satisfy.  As Dr. Eric Berg explains "it is not normal to have this incredible desire to have sweets... but while eating sugar, I wanted it more and more and more...".  Fortunately there are now many ways to wean off a sugar addiction, which include substituting with healthy artificial sweeteners, low-carb flours, and learning to be a better cook in the process.  
 
-# Intermittent Fasting
-While learning about ways to become more lean, I came across something called intermittent fasting.  There is a hormone called insulin that helps stores fat and it is triggered by eating.  In the presence of it, you can't lose weight and it blocks growth hormone.  Therefore fasting stops insulin spikes from preventing weight loss and muscle gain.  The system I have been using that appears to be effective is 16-20 hour fast window and 4-8 hour eating window.  To build up to this was a gradual process however its effective is incredible.  To boost this system even more, I added workouts in the morning.  When scheduling workouts it is important to optimize the fat burning and muscle growth window by doing it during the fasting window and not directly at the end of it.  
-
-- insulin is a powerful hormone that helps store fat
-- in its presence you can't lose weight
-- blocks growth hormone
-- 20hr fast, 4hr eat, Lunch + Dinner, no snacking
-- gradual process
-
-- learning about caffeine
-- caffeine dumps gylocogen "carbs" into bloodstream immediately
-- caffeine increases keto bodies produced significantly after 4 hours
-- caffeine fakes adenosine receptors
-- exercise after caffeine intake
-
-- my intake should be 2 cups max, or 1 cup & 2 tea, or just 1 cup,
-- cycle every 14 days
-  - day 1: 3/4
-  - day 2: 1/4
-  - day 3: none
-  - day 4: none
-
-6:30 - 7:00 pm - lunch
-10:00 - 10:30 pm - dinner
+# Intermittent Fasting + Workout
+While learning about ways to become more lean, I came across something called intermittent fasting.  There is a hormone called insulin that helps stores fat and it is triggered by eating or from stress.  In the presence of it, you can't lose weight and it blocks growth hormone.  Therefore fasting stops insulin spikes from preventing weight loss and muscle gain.  The system I have been using that appears to be effective is 16-20 hour fast window and 4-8 hour eating window.  To build up to this was a gradual process however its effectiveness is worth it.  To boost this system even more, I added workouts in the morning.  When scheduling workouts it is important to optimize the fat burning and muscle growth window by doing it during the fasting window and not directly at the end of it.  So in a sense you can "ride the wave" of low insulin and high growth hormone.  Knowing that I have an addiction to coffee, I looked into the effects of caffeine as well.  Caffeine dumps glycogen "carbs" in muscle directly into the bloodstream immediately after consumption which essentially can throw off your ketosis.  The amount is generally small, but still something to take advantage of.  If consuming caffeine a bit before working out, you can burn off the carbs released instantly.  Caffeine improves performance by making you less tired.  This is done by caffeine blocking adenosine receptors which regulate sleepiness.  There are several performance enhancing effects from caffeine, however your body will get used to caffeine and start to become less effective.  Therefore it is ideal to only drink caffeinated beverages when you really need the performance boost and in small dosages.  If continuing a daily high dosage of caffeine it should be cycled.  Cycling means that every so often, you reset your caffeine resistance by tapering off your consumption till you hit 0.  Stay at 0 for a while, then once again continue your caffeine consumption.  Keep in mind that starting a lower dossage after your reset is ideal, since the effects of caffeine will now be stronger to you.  For me, I enjoy caffeine on a day to day basis hence I have decided to opt out from coffee and drink green tea.  A regular cup of coffee has ~95 mg of caffeine where as green tea has ~30 mg.  There is also a amino acid called L-Theanine in green tea that works very well in conjunction with caffeine.  It helps reduce jitteriness and allows for a calm focus instead of a energetic and unstable one.  I will also be drinking green tea about 30 min before a workout to optimize my usage of caffeine.  I will try to cycle my caffeine from green tea as well and the withdrawal effects shouldn't be as severe considering my dosage is already low.
 
 # Workout
+To focus directly on workout, I have been slowly building up a routine which consists of 5 day cycles.  A day for Legs, Arms, Chest, Abs, and Cardio.  The exercises I have been performing are probably far from ideal, but I have continually improving them.  The general idea that I have right now is that to grow muscle, you have to tear down what you have, so it can build back stronger than before.  So my approach is that I try to exhaust the focused group of muscles and overload them as much as I can with my limited equipment of just some adjustable weight dumbbells and body weight.  Then they will recover while I focus on a different group of muscles for the next 4 days until I go back to the same muscle focus group.  Knowing that I am on the ketogenic diet there are somethings to keep in mind.  There are two type of exercises, Aerobic and Anaerobic.
+
+- Anaerobic vs Aerobic
+- the 3 systems of ATP, and 1 more for creatine-phosphate system
+- creatine consumption
+- BCAAs
+
+
+
+#

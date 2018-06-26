@@ -11,3 +11,13 @@ Neurons
 
 https://www.verywellmind.com/the-anatomy-of-the-brain-2794895
 3,5,6,7,8 - still need work
+
+
+Python notes:
+len(a)
+list vs vs tuple vs dictionary
+type(a)
+
+for loops
+if statements
+while loops
