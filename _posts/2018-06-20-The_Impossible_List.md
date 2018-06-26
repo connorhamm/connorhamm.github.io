@@ -36,12 +36,13 @@ Skill Goals
   - 1 competition
   - Python Score: 3rd star
   - ~~Problem Solving: 1 star~~ Completed 6/21/18
-    - 2nd star
+    - ~~2nd star~~ Complete 6/26/18
   - AI Score: 10/150
   - Linux Score: 10/65
   - "Learn to Code in 30 days" Tutorial
   - "Interview Prep" Tutorial
   - "10 Days of Statistics" Tutorial
+    - started @ 6/26/18
 
 
 Fun and/or "Insane" Goals
