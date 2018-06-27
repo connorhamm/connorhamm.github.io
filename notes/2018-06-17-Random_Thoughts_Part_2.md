@@ -12,6 +12,10 @@ While learning about ways to become more lean, I came across something called in
 # Workout
 To focus directly on workout, I have been slowly building up a routine which consists of 5 day cycles.  A day for Legs, Arms, Chest, Abs, and Cardio.  The exercises I have been performing are probably far from ideal, but I have continually improving them.  The general idea that I have right now is that to grow muscle, you have to tear down what you have, so it can build back stronger than before.  So my approach is that I try to exhaust the focused group of muscles and overload them as much as I can with my limited equipment of just some adjustable weight dumbbells and body weight.  Then they will recover while I focus on a different group of muscles for the next 4 days until I go back to the same muscle focus group.  Knowing that I am on the ketogenic diet there are somethings to keep in mind.  There are two type of exercises, Aerobic and Anaerobic.
 
+- Vitamin Research, determine what I am deficient in
+- Acne, hair maintenance, skin,
+
+
 - Anaerobic vs Aerobic
 - the 3 systems of ATP, and 1 more for creatine-phosphate system
 - creatine consumption
@@ -19,10 +23,12 @@ To focus directly on workout, I have been slowly building up a routine which con
 - insulin spikes in conjunction with fat / protein ratio
 
 # Sleep
-- cyradium rhythm
-- light frequency
-- noise
-- tea
-- hours
+What sparked my interest in sleep techniques was my recent schedule change and my extra tiredness from working out.  Some simple corrections that I have made include not drinking anything 2-3 hours before sleeping to prevent waking for obvious reasons.  I also have a bedtime tea which includes Chamomile and Valerian root which are known to help promote sleep.  I now use non-reusable ear plugs at night to prevent noise disruptions and this has made a huge improvement on sleep.  I try to avoid strong lights and use red-filter lights to help the circadian rhythm.  Before I slept without an alarm clock, but now I think having one is important.  
+
+- are alarm clocks bad? sounds like a yes
+- hours - are fluctuating because of the intensity of my workout
+- light polution
+- effect of exercise on hours of sleep
+
 
 #
