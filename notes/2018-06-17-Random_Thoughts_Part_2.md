@@ -1,5 +1,5 @@
 # Introduction
-To take a more physical than philosophical approach to combating mentality, I have peeked into the complex and for the most part over my head, science of nutrition.  There were several influences along the way including health documentaries "What the Health", "Food Inc.", and "The Magic Pill", as well as doctors, nutritionists, TED Talks, etc.  However, the hands down winner that started me on this path, was a TV show called "Mr. Robot".  "I'm talking about all organized religion. Exclusive groups created to manage control. A dealer getting people hooked on the drug of hope. His followers, nothing but addicts who want their hit of bullshit to keep their dopamine of ignorance. Addicts. Afraid to believe the truth." [Elliot, Mr. Robot] I didn't particularly aim this quote at religion, but to everything.  I started to find habits of my own creation that are deemed normal, but were detrimental to my health, my happiness, and my productivity.
+To take a more physical than philosophical approach to combating mentality, I have peeked into the complex and for the most part over my head, science of nutrition.  There were several influences along the way including health documentaries "What the Health", "Food Inc.", and "The Magic Pill", as well as doctors, nutritionists, TED Talks, etc.  However, the hands down winner that started me on this path, was a TV show called "Mr. Robot".  "I'm talking about all organized religion. Exclusive groups created to manage control. A dealer getting people hooked on the drug of hope. His followers, nothing but addicts who want their hit of bullshit to keep their dopamine of ignorance. Addicts. Afraid to believe the truth." [Elliot, Mr. Robot] I didn't particularly aim this quote at religion, but to everything.  I started to find habits of my own creation that are deemed normal, but were detrimental to my health, my happiness, and my productivity.  The following content is scattered ideas and thoughts that are well established but hopefully that will change with time.  
 
 # Health
 I was never really taught about nutrition through family or through my education.  I never understood the interactions between calories, carbs, fats, proteins, minerals, and vitamins.  Reading the nutritional label on the back of a product was nonsense to me.  My relationship with food is slowly changing and become a more conscious decision as I know the power behind it.  I began flipping everything I knew on its head, following a diet that was the exact opposite of what I was used to with a corresponding food pyramid flipped on its head rather than the traditional one.
@@ -31,4 +31,56 @@ What sparked my interest in sleep techniques was my recent schedule change and m
 - effect of exercise on hours of sleep
 
 
-#
+# Productivity
+My current systems in place are filled with distracted work and cycles that are effecting my potential performance.  This will be a brainstorm for my own personal ideas.  I first want to categorize my systems.
+
+Bedroom: Potential deep work room
+  flaws:
+    - computer distraction
+      - games
+      - misc. projects
+      - emails
+      - updates
+    - brother
+      - disruption
+      - appearance
+    - potential parents/sister
+      - disruption
+
+Caffe: Potential deep work room
+  flaws:
+    - social setting
+    - most likely less distractions
+
+Library: Potential deep work room
+  flaws:
+    - wasted time for distance traveled
+    - distractions from others
+
+Outside: Potential deep work room
+  flaws:
+    - parents
+    - environmental factors ***
+      - time of day
+      - temperature
+
+Common Issues:
+- disruption from family, parents, friends
+- removing it entirely is key
+
+5:00 wakeup - second I wake, go make tea, no phone until after workout, ice cube if too hot
+5:15 wakeup - second I wake, go make tea, no phone until after workout, ice cube if too hot
+5:20 start reading - finish tea fast
+5:45 workout
+6:15 shower
+6:30 get ready
+6:45 leave
+
+
+4:00 get home
+4:15 meal #1 and text say good night
+5:15 start work
+- tea
+8:15 stop work
+8:20 meal #2
+9:00 sleep
