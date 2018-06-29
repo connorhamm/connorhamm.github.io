@@ -70,17 +70,19 @@ Common Issues:
 
 5:00 wakeup - second I wake, go make tea, no phone until after workout, ice cube if too hot
 5:15 wakeup - second I wake, go make tea, no phone until after workout, ice cube if too hot
-5:20 start reading - finish tea fast
+- read if I have time
 5:45 workout
-6:15 shower
-6:30 get ready
-6:45 leave
+6:15 shower + hair
+6:30 text
+6:50 leave
 
 
 4:00 get home
 4:15 meal #1 and text say good night
 5:15 start work
-- tea
-8:15 stop work
-8:20 meal #2
+- make tea
+- reading/writing block
+7:15 stop work
+7:15 meal #2
+- text block
 9:00 sleep
