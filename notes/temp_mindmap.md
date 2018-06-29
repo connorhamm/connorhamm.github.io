@@ -21,7 +21,8 @@ The Deep Work Chamber, a place with complete isolation, void of all distractions
     - new desk or desk structure
       - I need no background distractions,
         - facing wall... etc.
-    -
+      - get rid of junk on both desks
+
 
 The Open Office, a place filled with distractions and shallow tasks.
 - Work
