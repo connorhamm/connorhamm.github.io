@@ -2,7 +2,7 @@
 layout: post
 title:  "Immortals"
 date:   2018-07-08
-desc: ""
+desc: "Immortals"
 keywords: ""
 categories: [Blog]
 tags: []
