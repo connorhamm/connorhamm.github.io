@@ -21,7 +21,7 @@ Professional Goals
 - Pay off student loans
 
 Habit Goals
-- Do a morning workout 100 days in a row
+- Do a morning workout 100 days in a rowl
 - Read 25 pages a day - 3 months in a row
 - Write 100 words a day - 100 days in a row
 - Stretch once a day - 100 days in a row
