@@ -7,7 +7,7 @@ keywords: "Blog"
 categories: [Blog]
 tags: [Blog]
 icon: icon-html
---- -->
+---
 
 
 I used to think of multitasking as an important skill.  To be able to text friends, eating, taking classes, and playing games in between.  However I have learned multitasking doesn't exist.  In reality we are doing something called "time sharing".  Our brains can focus on one task at a time, hence what we are actually doing is increasing the frequency in which we jump from one task to another.  We create the illusion of getting many things done simultaneously, when in reality we are significantly decreasing the quality of work and productivity.
@@ -25,4 +25,4 @@ High Performance tasks/decisions require high physical and high mental effort.  
 Today I am writing down several decisions that I make on a daily basis and figuring out which ones I never needed to make in the first place.  Which is most of them.  Then figuring out how to optimize my time spent on the ones that really matter. :)
 
 
----
+--- -->

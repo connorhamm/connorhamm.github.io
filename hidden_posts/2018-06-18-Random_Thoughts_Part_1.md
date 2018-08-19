@@ -7,7 +7,7 @@ keywords: "Random Thoughts"
 categories: [Blog]
 tags: [Thoughts, Random]
 icon: icon-html
---- -->
+---
 
 <div style="text-align:center"><img src ="https://github.com/connorhamm/connorhamm.github.io/raw/master/pictures/storm.jpg" /></div>
 
@@ -16,4 +16,4 @@ icon: icon-html
 "I think human consciousness was a tragic misstep in evolution, we became too self-aware, ... we are things under the illusion of having a self... programmed with the assurance that we are each somebody, when in fact everybody's nobody."  [Rust Cohle, True Detective]  Taking a step back through meditation, reflection, and surrounding oneself with nature, we can begin to detach oneself from self driven motives.  Motives that intend to distract and hinder our true potential and meaning, ultimately controlling us.  Ranging from food, education, entertainment, on and on, our self driven motives obscure and prevent ourselves from pushing further.  Living in comfortable bubbles until it is popped, and an overwhelming storm tears us apart.  From youth we are prepared improperly for this world, sheltered, hidden, and distracted.  I believe that this inherently starts us on a path of weakness and ignorance.  To thrive, this path must be diverged, leading us slowly back onto a hidden path unique to us, meant to be followed if we allow it.  Therefore, I don't believe that "everybody's nobody", but that there is a selfless and meaningful purpose that each one of can carry, that we have become blinded to through society's influence.  To make continual progress throughout our lives, ego must be eliminated.  "The more I learn, the more I realize how much I don't know." [Albert Einstein]  I admire this quote.  After college I felt more clueless than the start and still do for that matter.  This quote is calming and realistic.  People become so overwhelmed and scared of lack of knowledge it provokes shortcuts and panic induced reactions instead of addressing the problem at hand.  If you look around yourself, whether people seem confident and strong or shy and weak, we are in the same boat.  All of us are clueless creatures grasping at straws.  It is time to not give into emotions and societal influence, but to embrace our weaknesses and work towards a brighter and accepting future.
 
 
----
+--- -->

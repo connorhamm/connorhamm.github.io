@@ -7,7 +7,7 @@ keywords: "Impossible, List"
 categories: [The impossible list]
 tags: [The impossible list]
 icon: icon-html
---- -->
+---
 
 
 Fitness/Health Goals
@@ -67,4 +67,4 @@ Life Goals
 - Masters Degree in CS?
 - Be self sufficient and location independent
 
----
+--- -->

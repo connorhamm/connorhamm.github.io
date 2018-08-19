@@ -1,4 +1,4 @@
-# Introduction
+<!-- # Introduction
 To take a more physical than philosophical approach to combating mentality, I have peeked into the complex and for the most part over my head, science of nutrition.  There were several influences along the way including health documentaries "What the Health", "Food Inc.", and "The Magic Pill", as well as doctors, nutritionists, TED Talks, etc.  However, the hands down winner that started me on this path, was a TV show called "Mr. Robot".  "I'm talking about all organized religion. Exclusive groups created to manage control. A dealer getting people hooked on the drug of hope. His followers, nothing but addicts who want their hit of bullshit to keep their dopamine of ignorance. Addicts. Afraid to believe the truth." [Elliot, Mr. Robot] I didn't particularly aim this quote at religion, but to everything.  I started to find habits of my own creation that are deemed normal, but were detrimental to my health, my happiness, and my productivity.  The following content is scattered ideas and thoughts that are well established but hopefully that will change with time.  
 
 # Health
@@ -85,4 +85,4 @@ Common Issues:
 7:15 stop work
 7:15 meal #2
 - text block
-9:00 sleep
+9:00 sleep -->
