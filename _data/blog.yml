@@ -6,8 +6,5 @@
 - name: Python
   href: /python/
 
-- name: Linux
-  href: /linux/
-
-- name: The impossible list
-  href: /the impossible list/
+- name: CEH
+  href: /ceh/
