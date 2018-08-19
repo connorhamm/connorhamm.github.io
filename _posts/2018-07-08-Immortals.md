@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Immortals"
 date:   2018-07-08
@@ -7,7 +7,7 @@ keywords: "Blog"
 categories: [Blog]
 tags: [Blog]
 icon: icon-html
----
+--- -->
 
 
 Imagine a world of immortals.  A life where everyone was free from the ticking clock.  This seems like an fantasy, but I believe it will be inevitable if our species can survive long enough to achieve it.  The brain is an incredibly complex organ and while there are many secrets yet to be revealed, there is nothing supernatural about it.  It follows the same rules everything else does, and it is only a matter of time before we crack the code.  Whether we find ways to prevent the brain from aging, or we are able to upload our consciousness to a cloud based technology, it will happen.  Now the question is how will this effect our world?

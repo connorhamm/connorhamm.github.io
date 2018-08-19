@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Random Thoughts (Part 1)"
 date:   2018-06-18
@@ -7,7 +7,7 @@ keywords: "Random Thoughts"
 categories: [Blog]
 tags: [Thoughts, Random]
 icon: icon-html
----
+--- -->
 
 <div style="text-align:center"><img src ="https://github.com/connorhamm/connorhamm.github.io/raw/master/pictures/storm.jpg" /></div>
 

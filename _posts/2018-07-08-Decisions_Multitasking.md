@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Decisions & Multitasking"
 date:   2018-07-10
@@ -7,7 +7,7 @@ keywords: "Blog"
 categories: [Blog]
 tags: [Blog]
 icon: icon-html
----
+--- -->
 
 
 I used to think of multitasking as an important skill.  To be able to text friends, eating, taking classes, and playing games in between.  However I have learned multitasking doesn't exist.  In reality we are doing something called "time sharing".  Our brains can focus on one task at a time, hence what we are actually doing is increasing the frequency in which we jump from one task to another.  We create the illusion of getting many things done simultaneously, when in reality we are significantly decreasing the quality of work and productivity.
