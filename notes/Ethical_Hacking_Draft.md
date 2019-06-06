@@ -20,7 +20,7 @@ https://techsviewer.com/install-macos-high-sierra-virtualbox-windows/
 - installed AVG antivirus?
 - setup remote access?
 - setup kali
-
+portal
   - install dumpzilla dependencies
   "pip install logging lz4"
   "apt-get install python3 sqlite3 python-lz4 libnss3*"
