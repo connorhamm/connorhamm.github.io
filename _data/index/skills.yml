@@ -1,6 +1,6 @@
-# skills section data
-
-label: Ability
-id : cs
-aspects: Machine Learing, Python, Shell Scripting, Linux, Tennis, Cooking, Circuit Design, OSI & TCP/IP
-percentage: 10, 35, 35, 40, 50, 25, 10, 15
+## skills section data
+#
+#label: Ability
+#id : cs
+#aspects: Machine Learing, Python, Shell Scripting, Linux, Tennis, Cooking, Circuit Design, OSI & TCP/IP
+#percentage: 10, 35, 35, 40, 50, 25, 10, 15

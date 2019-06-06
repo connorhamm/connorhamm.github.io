@@ -1,43 +1,43 @@
-# careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Jabil
-    i18n: company_a
-  desc:
-    detail: Non-Disclosure Agreement (NDA)
-    i18n: company_c_desc
-  date:
-    detail: Feb. 2017
-    i18n: company_a_date
-  job:
-    detail: Test Engineering Technician
-    i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
-    detail: Jabil
-    i18n: company_b
-  desc:
-    detail: Non-Disclosure Agreement (NDA)
-    i18n: company_b_desc
-  date:
-    detail: March 2017
-    i18n: company_b_date
-  job:
-    detail: Temp
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: Graduated
-    i18n: company_c
-  desc:
-    detail: University of California, Santa Cruz
-    i18n: company_c_desc
-  date:
-    detail: June 2016
-    i18n: company_c_date
-  job:
-    detail: Network and Digital Technology
-    i18n: company_c_job
-  icon: fa-plus-square
+## careers section data
+## if you don't have language feature(language.yml is empty), ignore "i18n" items
+#- name:
+#    detail: Jabil
+#    i18n: company_a
+#  desc:
+#    detail: Non-Disclosure Agreement (NDA)
+#    i18n: company_c_desc
+#  date:
+#    detail: Feb. 2017
+#    i18n: company_a_date
+#  job:
+#    detail: Test Engineering Technician
+#    i18n: company_a_job
+#  icon: fa-plus-square
+#
+#- name:
+#    detail: Jabil
+#    i18n: company_b
+#  desc:
+#    detail: Non-Disclosure Agreement (NDA)
+#    i18n: company_b_desc
+#  date:
+#    detail: March 2017
+#    i18n: company_b_date
+#  job:
+#    detail: Temp
+#    i18n: company_b_job
+#  icon: fa-plus-square
+#
+#- name:
+#    detail: Graduated
+#    i18n: company_c
+#  desc:
+#    detail: University of California, Santa Cruz
+#    i18n: company_c_desc
+#  date:
+#    detail: June 2016
+#    i18n: company_c_date
+#  job:
+#    detail: Network and Digital Technology
+#    i18n: company_c_job
+#  icon: fa-plus-square
