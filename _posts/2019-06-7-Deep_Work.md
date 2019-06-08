@@ -1,15 +1,13 @@
 <!-- ---
 layout: post
-title:  "Hello World"
-date:   2018-06-11
-desc: "My first post."
-keywords: "First,Post"
+title:  "Deep_Work"
+date:   2019-06-7
+desc: "Book Notes"
+keywords: "Book, Notes"
 categories: [Blog]
 tags: [Blog,Test]
 icon: icon-html
 ---
-
-
 
 Introduction:
 	• Deep work is undistracted focus on important / valuable work
@@ -391,4 +389,4 @@ Conclusion:
 Deep Work is way more powerful than most people understand
 
 
---- -->
+---
