@@ -1,0 +1,394 @@
+<!-- ---
+layout: post
+title:  "Hello World"
+date:   2018-06-11
+desc: "My first post."
+keywords: "First,Post"
+categories: [Blog]
+tags: [Blog,Test]
+icon: icon-html
+---
+
+
+
+Introduction:
+	• Deep work is undistracted focus on important / valuable work
+	• Isolation from everything is required
+		• social media, electronics, people, everything...
+	• work periods / time frames should be long and consecutive
+	• a typical knowledge worker spends 30% time w/ emails and 60% time w/ electronic communication & internet browsing
+	• Shallow work is cognitively undemanding and preformed while distracted
+	• To learn complex subjects requires uninterrupted and intense concentration
+	• To learn computer programming
+		• e.g: a man locked himself in a room w/ no computer, just textbooks, note cards, and a highlighter
+		• he used the technique of:
+			• highlight -> notecards -> practice
+			• made sure there was nothing in his room to distract him
+	• to be valuable, you must be able to learn complicated things fast
+	• deep work is becoming scarce and increasing in value
+	• Cal Newport constructs his days with chosen deep work and shallow activities, unavoidable, that are batched into smaller bursts
+	• lack of distraction helps remove nervous mental energy
+ 
+Chapter 1: Deep Work is Valuable
+	• Highly Skilled worker: In our economy, those good with working with intelligent machines will thrive
+	• Superstars: As the talent market is more universal, those at the top will thrive
+	• Owners: With invested capital in intelligent machines, those will thrive
+	• Desired Attributes:
+		• quickly master difficult things
+		• produce with high quality and speed
+	• experts reflect a pursuit of effort in a particular field
+	• keep your attention focused on a specific field
+	• receive feedback to improve / change your approach to:
+	• keep your mindset where it has highest productivity
+	• myelin: a layer of fatty tissue around neurons
+		• allows cells to fire faster / cleaner
+	• check out the book: Give & Take by Grant
+	• High-Quality work Produces = (Time Spent) X (Intensity of Focus)
+	• Residue: when switching tasks, you attention doesn't immediately follow, there is residue
+
+Chapter 2: Deep Work is Rare
+	• Other trends have become common place
+		• Rapid communication
+		• Active Social Media
+		• Open Collaboration
+	• Deep work's metrics are a " black hole"
+		• Contribution and business behavior are hard to quantify
+	• Principle of Least Resistance
+		• Without clear feedback, we trend towards the easiest behaviors
+	• Open-ended interrogative questions such as "Thoughts•" Is painfully frustrating
+		• This is time-sucking, but is easier from the sender's perspective
+	• Avoid administrative duties
+		• Feymman, to avoid administrative duties, he made a myth that he is irresponsible and uses this as a reason to get out of doing extra things
+	• Busyness is a proxy for productivity
+		• Doing lots of stuff in a visible manner to demonstrate value is misguided
+	• Trade-offs surrounding new tech is disregarded and assumed to be good
+	
+Chapter 3: Deep Work is Meaningful
+	• Deep work and a good life has a strong connection for master craftsmen
+	• Master craftsmen find great meaning in their work
+	• Depth destroying behaviors are praised in society
+		• Avoidance generates suspicion
+	• What we choose to focus on and ignore can define our quality of life
+		• Skillfully manage your attention!
+	• 'The idle mind is the devil's workshop'
+		• When focus is lost, your mind fixates on what is wrong instead of what is right
+	• Best moments occur when:
+		• Mind is stretched to its limits
+		• To accomplish a difficult and meaningful task
+	• Jobs are easier to enjoy than free time
+		• Built in goals, feedback, challenges
+	• Our minds like going deep regardless of the subject
+	• Deep work generates flow state, which includes:
+		• Stretching mind to its limits
+		• Loosing yourself in the work
+		• Flow generates happiness
+	• Seek out opportunities for flow
+	• Beautiful code is short and precise
+	• Meaning is uncovered through effort due to skill and appreciation of the craftsmanship
+		• Craftsman don't have rarified jobs
+		• A sword doesn't have to be special, the effort and skill of the craftsman who made it is
+		
+Rule #1: Work Deeply
+	• Dissertation: long essay on a particular subject
+	• Example strategies of deep work:
+		• Eliminate / minimize all other types of work
+		• Rhythmic strategy, doing deep work for the same hours every weekday
+	• Eudaimonia Machine by David Dewane
+		• 5 Rooms
+			• 1st Room: Gallery
+				• Demonstrates examples of deep work
+				• Designed to inspire users
+			• 2nd Room: Salon
+				• Coffee, Bar, couches, Wi-Fi
+				• Designed for curiosity and argumentation
+			• 3rd Room: library
+				• The hard drive, archive, or vault of your information
+				• Designed as a permanent record of all work produced
+			• 4th Room: Office Space
+				• Conferences, white boards, cubicles
+				• Designed for shallow efforts
+			• 5th Room: Deep Work Chambers
+				• Soundproof, Isolation
+				• Designed for total focus
+				• Ideal scenario:
+					• A process of spending 90 min inside, take a 90 min break, then repeat 2-3 times to reach peak of concentration for the day
+	• Main obstacle for going deep:
+		• Urge to turn your attention to something superficial
+	• Finite amount of will power that depletes as you use it
+		• Like a muscle that tires
+	• Add routines and rituals to your life to minimize limited willpower needed to transition into a focused state
+		• Setting a time, a quiet location, would allow you to use less willpower to start and keep going
+	• Bimodal philosophy for  Deep Work
+		• Dedicates stretches of time, min 1 day, to deep tasks
+	• People will respect your inaccessibility if well-defined and advertised
+	• Seinfeld uses a chain method
+		• Marks calendar w/ a red 'X' when he writes a new joke for the day
+		• Once he starts getting chains, he try's no to break them
+		• Transforms this task into a habit
+	• 90-min stretches doesn't yield much productivity in an ad-hoc style
+	• Ad-hoc is something done for a particular purpose
+	• Committing time for depth in a rhythm, in big chunks, e.g 2.5 -> 3 hrs is effective
+	• It is a good idea to log hours in depth
+	• Journalistic approach doesn't come easy and is a skill obtained by their deadline driven nature
+	• Journalistic approach takes advantage of any free time that pops up
+	• Cal Newport's strategy is to map out when he will work deeply at the beginning of each week
+		• Then refines details later to save effort / energy
+	• Waiting for inspiration is a bad plan
+		• Instead ignoring is the better alternative
+		• Great creative minds think like artists but work like accountants
+	• Build rituals that are strict!
+	• Questions to ask yourself when trying to setup a deep work routine
+		• Where you will work, and for how long•
+			• Specify location, ideally a location for depth only
+			• Set a specific time frame, gives it a challenge
+				• No open endings
+		• How you'll work once you start to work•
+			• Structure the work to avoid wasted will power deciding
+		• How you'll support the work•
+			• Exercise, diet, walks, find what works!
+			• Structure this as well to avoid waste
+	• Radical environment change w/ significant investment of effort / money increases perceived importance
+		• Perceived importance can provide motivational energy and focus
+		• Psychology of strong commitment through setting up a good environment can unlock mental resources
+	• Architecture of isolated offices with common connected area
+		• Supports deep thinking and serendipitous encounters
+		• Expose oneself to new ideas / places / people, but have a place for your isolation
+	• White board effect: Some problems can be worked on side by side with another
+		• Each pushing each other to greater depths
+		• Carefully choose this type of engagement, it only applies to specific situations
+	• 4DX framework is to help get through the gap between what and how
+		• Focus on the wildly important
+			• "the more you try to do, the less you actually accomplish"
+			• Add some ambitious outcomes to pursue w/ deep work hours
+			• Focus on saying 'yes' to the subjects you are longing and let this crowd out everything else
+		• Action on the Lead Measures
+			• 2 metrics: lead and lag
+			• Lag: measures what you are trying to improve (past)
+				• e.g: getting a promotion, mastering a concept
+			• Lead: measures effectiveness of new behaviors (present)
+				• e.g: time spent in a state of deep work for you wildly important goal
+			• I can improve lead by tracking hours spent in deep work
+		• Keep a compelling Scoreboard
+			• Tracks tasks completed but more importantly the effort of each day
+		• Create a Cadence of Accountability
+			• Regular meetings to confront scoreboards
+			• Encourages execution
+				• With independent work, this can be effective with weekly reviews
+	• 4DX helps support a lifestyle of depth and its regularity, not necessarily the intensity
+		• Regularity > intensity
+	• "I am not busy.  I am the laziest ambitious person I know"
+		• In this example, a man fled to a place w/ no Internet or TV
+		• Going online required biking to the library
+	• "Idleness is not just a vacation, an indulgence or a vice;  it is as indispensable to the brain as vitamin D is to the body... paradoxically, necessary to getting any work done."
+		• To strategize and use this technique, it can be used as follows:
+			• Shutdown all work issues at the end of your workday
+				• No email, no mental replays, no scheming
+			• If you need more time, extend your workday and shutdown later
+	• Some decisions are better left for the unconscious mind to untangle
+		• Move on and don't dwell on certain things too long
+	• Decisions that require the application of strict rules are good conscious mind
+		• e.g: calculator
+	• Decisions that are vague, lots of info, conflictions, restraints, many variables... are well suited for the unconscious mind
+	• Conscious mind is like a computer / calculator
+	• Unconscious mind is like a data center, with complex algorithms to sift through unstructured data
+		• This can output ideas and solutions to complex problems
+	• Walking on a busy street, driving on a complex road, maneuvering around obstacles, drains will power / directed attention
+	• Walking through nature exposes you to fascinating stimuli, freed from challenges which helps recover willpower / directed attention
+	• The work that evening routines replaces is usually not that important
+		• It is common to reach your deep work capacity by the end of the workday
+		• Therefore, shallow work will take its place
+	• Implement a strict shutdown ritual
+		• Series of steps you always do, and a set phrase at the end
+			• e.g "Shutdown Complete"
+		• Without shutdown, issues will battle for you attention
+	• Capture items/ tasks to do before shutdown
+		• These items will be taken care of when appropriate and will not interfere w/ your ritual
+	• Regularly resting improves the quality of deep work
+	
+Rule #2: Embrace Boredom
+	• The ability to concentrate intensely is a skill that must be trained
+	• To focus deeper, one must distance their dependence on distractions
+	• Constant attention switching online has a lasting negative effect on the brain
+	• When a brain is used to distraction, it's hard to shake the addiction
+		• e.g. for every potential moment of boredom, you find yourself reaching for your phone
+	• People who multitask all the time are mental wrecks
+	• Deep work training consists of 2 main ideas
+		• Improving your ability to concentrate intensely
+		• Overcoming your desire for distraction
+	• You can use the Internet in a focused and deep way, but for a distraction addict, it's not possible
+	• Schedule in advance when you'll use the internet, and avoid it outside of these times
+		• This minimizes, the number of distractions that will occur and let your attention selecting muscles strength
+	• Schedule internet usage blocks at work to do the following things:
+		• Check emails, research content, etc.
+		• When blocked, you must be absolutely free from internet
+			• turn off notifications!
+			• Go airplane mode
+			• Turn off computer
+	• When stuck / blocked from lack of internet, switch to another offline activity or relax
+		• Remember the idea, take a break from deep work, and don't fill time off with shallow work
+	• If urgency is dire, at least add a gap (5 min) before you go online to separate the sensation and the reward
+	• Scheduling internet use at home as well as at work can further improve your concentration training
+	• Rewire your brain to eliminate the ability for distractions to hijack your attention
+	• Another strategy to increase intensity of deep work, estimate the time it takes to do something, then give yourself an aggressive deadline to complete it
+	• Try this experiment at most 1 time a week at first then increase
+		• Keep deadlines right at the edge of feasibility
+		• You should always beat the buzzer, but to do so will be very hard
+		• Deep work requires levels of concentration well beyond what most knowledge workers would find  comfortable
+		• Use artificial deadlines to systematically increase the level you can regularly achieve
+	• Productive meditation: take a time frame where you are physically but not mentally occupied
+		• Focus your attention on a single well-defined professional problem
+		• Continue to bring your attention back to the problem at hand when it wanders or stalls
+		• The purpose of these is to rapid improve your ability to think deeply
+		• Your mind will rebel and try to switch topics to seemingly more interesting thoughts
+		• Remember you can return to that thought later, then redirect your attention
+		• Your mind will avoid diving deeper and begin to loop on information you already know
+		• Identify looping and distractions!
+	• Structure your deep thinking
+		• Start with a careful review of what variables you want to focus on
+		• Store these into your working memory
+		• After solving / addressing these variables, consolidate your gains
+		• Then repeat this process by identifying your new variables
+	• Humans can't internalize abstract information quickly
+	• Humans can remember scenes very well
+	• Ron White's Card memorization technique
+		• Cement the image of walking through 5 rooms in your home
+		• In each room, conjure a clear image of what you see
+		• Fix in your mind a collection of 10 items in each room
+			• These items should be large, like a desk
+		• Establish an order in which you look at each room
+		• Combined this is 50 items, so add 2 more
+		• Then associate a memorable person / thing with each card
+		• Then walk through your house and deck of cards together assigning the mental images you have for the card w/ the place
+		• e.g. king of diamonds = Donald trump, 1st item in 1st room is a mat, hence Donald trump wiping mud off his shoes on the map, is the image
+		• After completing a room, walk through it a couples times to retain info
+	• There is nothing special about this card memorization technique
+	• Any thought process rewiring to this level of attention can deepen and strength your ability to concentrate
+	• If card memorization is weird and not appropriate to you, then find a replacement
+	<!-- ---
+layout: post
+title:  "Hello World"
+date:   2018-06-11
+desc: "My first post."
+keywords: "First,Post"
+categories: [Blog]
+tags: [Blog,Test]
+icon: icon-html
+---
+
+Rule #3: Quit Social Media
+	• Accept that these tools aren't designed to be evil
+		• Some can be vital to happiness and success
+		• BUT, reject the state of hyper connectedness
+		• Don't give these tools such regular access to your time and attention
+			• Use less
+	• Friendships online are lightweight, shouldn't be the center of the user's social life
+	• Don't justify the use of social media or anything just because it might have some benefit or from fear of missing out
+		• This would ignore all negatives that come along
+		• When adopting tools, keep a skeptic mind & approach
+			• This type of approach is obvious for craftsmen and skilled knowledge workers
+	• Craftsman Approach:
+		• Identify core factors that determine success and happiness
+		• Adopt a tool only if positives outweigh negatives
+	• Reduce complexity in deciding what matters to you
+		• Keep a list limited to what's most important
+		• Keep descriptions high-level
+		• Ex: being an effective teacher in the classroom, effective mentor to graduate students, being effective researcher
+		• Go through the list of tools you currently use, and identify its impact; substantially positive, substantially negative, or little impact
+	• Ex: Professional Goal: To craft well-written, narrative driven stories that change the way people understand the world
+		• Key activities supporting this goal:
+			• Research patiently and deeply
+			• Write carefully and with purpose
+	• Then apply the tools in comparison with these ideas / goals
+	• There are situations where Facebook and other tools should be used
+		• e.g: new college students who goals are to establish new friends by attending lots of events and socialize with lots of people
+	• Law of vital few: 80% of a given effect is due to 20% of the possible causes
+		• e.g: Out of 10-15 different activities you do, it•s the top 2 or 3 activities that make the most difference
+		• Don't service these lower impact activities just because they provide "some" benefit
+		• e.g: Instead of finding old friends on FB, take a good friend out to lunch
+		• Get more and do more of the activities you know will yield large benefits
+	• "packing party": pack up all your possessions, then only take out what you used / needed, after a while throw / get rid of the stuff you haven't used
+		• This can be used w/ tech too, ban everything and only use what gives you high/large benefits
+		• Notice the impact over a period of time, e.g: 30 days
+		• Don't announce this experiment
+			• Part of the delusion is that people actually want to hear what you have to say
+			• Gaining an audience is easier than ever before because of the idea of "you like my status update and I'll like yours"
+		• This is underserved agreements of attention
+	• For many activities, tools, commitments, you won't understand their value until you sample life without them
+	• Put more thought into your leisure time
+		• Don't default to whatever catches your attention in the moment
+	• Your 16 hours of full energy will increase the value of the 8 business hours
+		• Your mental reserves are capable of continuous hard activity and just require a change and of course sleep
+		• Doing this will perhaps teach what it means to live, and not just exist
+
+Rule #4 Drain the Shallows:
+	• Most people don't work 8 hours a day
+		• Too many interruptions, web surfing, office politics, personal agendas
+		• With fewer hours allocated, you spend them more wisely
+			• Therefore more shallow time would be given up for deep work
+	• Import quote on productivity:
+		• "How can we afford to put our business on hold for a month to 'mess around' with new ideas•" • "How can we afford not to•"
+	• Don't pursue all your timed spent in depth
+		• Shallow work is needed in most jobs
+		• Tame shallow work's quantity and control over you
+		• Shallow work is bad when it drowns out your ~4 hours of deep work
+	• The most adept thinker can't spend more than 4 hours in depth
+	• Most spend their day on auto pilot, not giving thought about what they are doing w/ their time
+		• Adopt a habit of pursing before action and asking "what makes the most sense right now•"
+	• Divide the hours into blocks and assign activities to these blocks
+		• Not all of these blocks need to be work related
+		• Min length should be 30 min
+		• At first estimates will be wrong
+		• Interruptions and obligations break your schedule
+			• If your schedule is broken, pursue and resize your schedule
+			• Cross out and add to the side of it
+			• The goal isn't to stick to a given schedule no matter what, it's to have a thoughtful say in what you're doing and will be doing
+	• Make a goal to accurately predict the time tasks require
+		• Add overflow blocks incase previous time blocks get blocked
+			• e.g: If an import insight is discovered, it may be worth looking into
+			• Afterwards, rebuild schedule and dive back into it
+	• Remember the goal of a schedule isn't to force your behaviors into a rigid plan
+	• Continually ask yourself "What makes sense for me to do with the time that remains"
+	• Without structure, it's easy for your time to devolve into shallow
+	• When determining whether a task is deep or not, ask "how long would it take (in months) to train a smart recent college graduate w/ no specialized training in my field to complete this task"
+	• Tasks that tend to lever your expertise are deep
+		• Return more value per time spent and stretch your abilities, and enhance improvement
+	• It•s a waste of money to pay professionals to send emails and attend meetings all day
+		• Need to say no to somethings things, and streamline others
+		• Perhaps get an explicit approval ration on time spent on shallow work from boss
+			• Perhaps your boss will say yes to shallow work, which is useful because it highlights your job doesn't support deep work
+	• Deliberately... do specific things to preserve happiness
+	• Limit shallow endeavors 
+	• For excuses, avoid providing enough details that allows the requester to defuse it
+		• Ex: "Sounds interesting, but I have schedule conflicts"
+			• Also resist the urge to offer consolation prizes
+			• A clean break is the best
+	• Choose behaviors that reorient your focus towards the deep
+	• Make people who send you email do more work
+		• Cal Newport uses a sender filter
+			• E.g: interesting@calnewport.com
+			• Only responds if they match schedule and interests
+		• You have the right to control your own incoming communication
+			• Expectation resets might earn you even more credit when you do respond
+	• The idea of all messages arriving in the same inbox, regardless of purpose and sender, is ridiculously unproductive
+	• Answer this question before answering vague, time consuming, and interrogative questions:
+		• "What is the project represented by this message, and what is the most efficient (in terms of messages generated) process for brining that project to a successful conclusion•"
+		• Minimize messages back and forth, and be very process oriented with your replies
+	• Many academics just don't respond
+		• They believe it's the sender's responsibility to convince the receiver that a reply is worth while
+	• Don't reply to an email if these rules apply to it
+		• Ambiguous, a reasonable response would be difficult
+		• It doesn't interest you
+		• No value
+	• People adjust to your communications, don't fret
+
+Conclusion:
+	• Setting up early commitments and adding perceived value such as an expensive notebook can induce more careful thinking
+	• Obsessive focus can be sparked by:
+		• Feeling not good enough
+		• Having limited time
+		• Understand the value of the focus
+	• Work on problems in your head when the time is presented
+Deep Work is way more powerful than most people understand
+
+
+--- -->
