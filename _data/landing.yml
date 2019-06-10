@@ -24,11 +24,11 @@
   tpl: projects.html
   css: project
 
-- id: notes
-  i18n: nav.notes
-  name: Notes
-  tpl: notes.html
-  page: notes/
+- id: blog
+  i18n: nav.blog
+  name: Blog
+  tpl: blog.html
+  page: blog/
   css: testimonials navy-section
 
 #- id: links
