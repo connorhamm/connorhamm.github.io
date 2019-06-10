@@ -10,8 +10,8 @@ icon: icon-html
 ---
 
 Introduction:
-	• Deep work is undistracted focus on important / valuable work
 	
+	• Deep work is undistracted focus on important / valuable work
 	• Isolation from everything is required
 		• social media, electronics, people, everything...
 	• work periods / time frames should be long and consecutive
@@ -29,6 +29,7 @@ Introduction:
 	• lack of distraction helps remove nervous mental energy
  
 Chapter 1: Deep Work is Valuable
+	
 	• Highly Skilled worker: In our economy, those good with working with intelligent machines will thrive
 	• Superstars: As the talent market is more universal, those at the top will thrive
 	• Owners: With invested capital in intelligent machines, those will thrive
@@ -46,6 +47,7 @@ Chapter 1: Deep Work is Valuable
 	• Residue: when switching tasks, you attention doesn't immediately follow, there is residue
 
 Chapter 2: Deep Work is Rare
+	
 	• Other trends have become common place
 		• Rapid communication
 		• Active Social Media
@@ -63,6 +65,7 @@ Chapter 2: Deep Work is Rare
 	• Trade-offs surrounding new tech is disregarded and assumed to be good
 	
 Chapter 3: Deep Work is Meaningful
+	
 	• Deep work and a good life has a strong connection for master craftsmen
 	• Master craftsmen find great meaning in their work
 	• Depth destroying behaviors are praised in society
@@ -88,6 +91,7 @@ Chapter 3: Deep Work is Meaningful
 		• A sword doesn't have to be special, the effort and skill of the craftsman who made it is
 		
 Rule #1: Work Deeply
+	
 	• Dissertation: long essay on a particular subject
 	• Example strategies of deep work:
 		• Eliminate / minimize all other types of work
@@ -205,6 +209,7 @@ Rule #1: Work Deeply
 	• Regularly resting improves the quality of deep work
 	
 Rule #2: Embrace Boredom
+	
 	• The ability to concentrate intensely is a skill that must be trained
 	• To focus deeper, one must distance their dependence on distractions
 	• Constant attention switching online has a lasting negative effect on the brain
@@ -263,18 +268,10 @@ Rule #2: Embrace Boredom
 	• There is nothing special about this card memorization technique
 	• Any thought process rewiring to this level of attention can deepen and strength your ability to concentrate
 	• If card memorization is weird and not appropriate to you, then find a replacement
-	<!-- ---
-layout: post
-title:  "Hello World"
-date:   2018-06-11
-desc: "My first post."
-keywords: "First,Post"
-categories: [Blog]
-tags: [Blog,Test]
-icon: icon-html
----
+
 
 Rule #3: Quit Social Media
+
 	• Accept that these tools aren't designed to be evil
 		• Some can be vital to happiness and success
 		• BUT, reject the state of hyper connectedness
@@ -320,6 +317,7 @@ Rule #3: Quit Social Media
 		• Doing this will perhaps teach what it means to live, and not just exist
 
 Rule #4 Drain the Shallows:
+
 	• Most people don't work 8 hours a day
 		• Too many interruptions, web surfing, office politics, personal agendas
 		• With fewer hours allocated, you spend them more wisely
@@ -381,13 +379,13 @@ Rule #4 Drain the Shallows:
 	• People adjust to your communications, don't fret
 
 Conclusion:
+
 	• Setting up early commitments and adding perceived value such as an expensive notebook can induce more careful thinking
 	• Obsessive focus can be sparked by:
 		• Feeling not good enough
 		• Having limited time
 		• Understand the value of the focus
 	• Work on problems in your head when the time is presented
-Deep Work is way more powerful than most people understand
 
 
 ---
