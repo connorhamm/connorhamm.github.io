@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title:  "Deep_Work"
 date:   2019-06-7
@@ -11,6 +11,7 @@ icon: icon-html
 
 Introduction:
 	• Deep work is undistracted focus on important / valuable work
+	
 	• Isolation from everything is required
 		• social media, electronics, people, everything...
 	• work periods / time frames should be long and consecutive
