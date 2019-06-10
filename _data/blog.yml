@@ -1,6 +1,16 @@
-# blog page sections
+# blog page section
 - name: Blog
   href: /blog/
 
-- name: Test
-  href: /test/
+# book page section
+- name: Books
+  href: /books/
+
+# Project page section
+- name: Projects
+  href: /projects/
+
+# Classes page section
+- name: Classes
+  href: /classes/
+
