@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Motivation Hacker"
+title:  "The Motivation Hacker by Nick Winter"
 date:   2019-06-25
 desc: "Book Notes"
 keywords: "Books"
