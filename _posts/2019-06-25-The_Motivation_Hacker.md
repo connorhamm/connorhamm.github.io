@@ -9,19 +9,15 @@ tags: [Books, Notes]
 icon: icon-html
 ---
 
-
-# Introduction
-- test123
-     - test123
-        - test123
-     - test123
-     - test123
-
-
-
-# Body
-    - test
-        -test 1234
-            - test1234
+# Chapter One: Protagonist
+- Two important motivation tricks:
+    - tell everyone
+    - set a time limit
+- Motivation Hackers utilize many techniques at once
+- More motivation = more success & more fun
+1. Pick your goals
+2. Select motivation hacks to use on subtasks
+3. Use more motivation hacks than you need
+- This makes it more fun!
 
 ---
