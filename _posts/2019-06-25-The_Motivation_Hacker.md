@@ -26,6 +26,16 @@ icon: icon-html
 - **Expectancy** is your confidence of success
 - **Value** is how rewarding and how fun a task is
     - Doing boring, pointless things causes low motivation
-- Impulsiveness can be though of as distraction
+- **Impulsiveness** can be though of as distraction
+- **Delay** is how far away the reward is
+    - its possible to perceive delay differently
+- **Expectancy** can incinerate all obstacles when combined with good planning
+    - With low expectancy, your confidence is so low, you don't even practice
+    - You have trained yourself to be helpless
+- **Value**
+    - High value example: Tasks are so fulfilling you can't help but grin to yourself
+    - It's easy to mistake a bad motivation environment for not caring and vice versa
+    - have fun demolishing boring necessities in your way!
+- **Impulsiveness**
 
 ---
