@@ -18,6 +18,14 @@ icon: icon-html
 1. Pick your goals
 2. Select motivation hacks to use on subtasks
 3. Use more motivation hacks than you need
-    1. This makes it more fun!
+    1. This fills the tasks with excitement and hunger for more
+
+# Chapter Two: How Motivation Works
+- MEVID
+    - Motivation = (Expectancy x Value) / (Impulsiveness x Delay)
+- **Expectancy** is your confidence of success
+- **Value** is how rewarding and how fun a task is
+    - Doing boring, pointless things causes low motivation
+- Impulsiveness can be though of as distraction
 
 ---

@@ -23,6 +23,11 @@ icon: icon-html
             1. Hello, World!
 
 ### Hello, World!
+**bold**
+__bold__
+~~strikethrough~~
+*italics*
+**_italics and bold_**
 
 #### Hello, World!
     print("Hello, World!")
