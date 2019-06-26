@@ -18,6 +18,6 @@ icon: icon-html
 1. Pick your goals
 2. Select motivation hacks to use on subtasks
 3. Use more motivation hacks than you need
-- This makes it more fun!
+    1. This makes it more fun!
 
 ---
